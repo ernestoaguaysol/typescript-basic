@@ -1,0 +1,24 @@
+{
+  "name": "typescript-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestoaguaysol/typescript-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernestoaguaysol/typescript-basic/issues"
+  },
+  "homepage": "https://github.com/ernestoaguaysol/typescript-basic#readme",
+  "devDependencies": {
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  }
+}
